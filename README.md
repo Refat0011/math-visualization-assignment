@@ -125,17 +125,23 @@ Used for:
 * Styling charts with labels, legends, and grids
 
 ---
-
 ## 📷 Generated Graphs
 
-The repository includes:
-- function_plot.png
-- own_equation.png
-- score_scatter.png
-- score_histogram.png
-- score_bar_chart.png
-- score_prediction.png
+### Function Visualization
 
+![Function Plot](function_plot.png)
+
+---
+
+### Student Score Bar Chart
+
+![Student Score Bar Chart](score_bar_chart.png)
+
+---
+
+### Prediction Graph
+
+![Prediction Graph](score_prediction.png)
 ## 👤 Author
 
 Refat

@@ -126,6 +126,16 @@ Used for:
 
 ---
 
+## 📷 Generated Graphs
+
+The repository includes:
+- function_plot.png
+- own_equation.png
+- score_scatter.png
+- score_histogram.png
+- score_bar_chart.png
+- score_prediction.png
+
 ## 👤 Author
 
 Refat

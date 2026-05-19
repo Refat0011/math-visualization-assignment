@@ -126,16 +126,6 @@ Used for:
 
 ---
 
-## 📷 Screenshots
-
-### Function Visualization
-(Add screenshot here)
-
-### Student Score Bar Chart
-(Add screenshot here)
-
----
-
 ## 👤 Author
 
 Refat
